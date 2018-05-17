@@ -1,0 +1,17 @@
+/home/indynt/Development/codeassignmenttest/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/indynt/Development/codeassignmenttest/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/home/indynt/Development/codeassignmenttest/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/home/indynt/Development/codeassignmenttest/bin/Debug/netcoreapp2.0/codeassignmenttest.deps.json
+/home/indynt/Development/codeassignmenttest/bin/Debug/netcoreapp2.0/codeassignmenttest.runtimeconfig.json
+/home/indynt/Development/codeassignmenttest/bin/Debug/netcoreapp2.0/codeassignmenttest.runtimeconfig.dev.json
+/home/indynt/Development/codeassignmenttest/bin/Debug/netcoreapp2.0/codeassignmenttest.dll
+/home/indynt/Development/codeassignmenttest/bin/Debug/netcoreapp2.0/codeassignmenttest.pdb
+/home/indynt/Development/codeassignmenttest/bin/Debug/netcoreapp2.0/codeassignment.dll
+/home/indynt/Development/codeassignmenttest/bin/Debug/netcoreapp2.0/codeassignment.pdb
+/home/indynt/Development/codeassignmenttest/obj/Debug/netcoreapp2.0/codeassignmenttest.csprojAssemblyReference.cache
+/home/indynt/Development/codeassignmenttest/obj/Debug/netcoreapp2.0/codeassignmenttest.csproj.CoreCompileInputs.cache
+/home/indynt/Development/codeassignmenttest/obj/Debug/netcoreapp2.0/codeassignmenttest.AssemblyInfoInputs.cache
+/home/indynt/Development/codeassignmenttest/obj/Debug/netcoreapp2.0/codeassignmenttest.AssemblyInfo.cs
+/home/indynt/Development/codeassignmenttest/obj/Debug/netcoreapp2.0/codeassignmenttest.csproj.CopyComplete
+/home/indynt/Development/codeassignmenttest/obj/Debug/netcoreapp2.0/codeassignmenttest.dll
+/home/indynt/Development/codeassignmenttest/obj/Debug/netcoreapp2.0/codeassignmenttest.pdb
