@@ -9,3 +9,14 @@
 /home/indynt/Development/codeassignment/obj/Debug/netcoreapp2.0/codeassignment.AssemblyInfo.cs
 /home/indynt/Development/codeassignment/obj/Debug/netcoreapp2.0/codeassignment.dll
 /home/indynt/Development/codeassignment/obj/Debug/netcoreapp2.0/codeassignment.pdb
+/home/indynt/Temp/shiftwise/codeassignment/bin/Debug/netcoreapp2.0/codeassignment.deps.json
+/home/indynt/Temp/shiftwise/codeassignment/bin/Debug/netcoreapp2.0/codeassignment.runtimeconfig.json
+/home/indynt/Temp/shiftwise/codeassignment/bin/Debug/netcoreapp2.0/codeassignment.runtimeconfig.dev.json
+/home/indynt/Temp/shiftwise/codeassignment/bin/Debug/netcoreapp2.0/codeassignment.dll
+/home/indynt/Temp/shiftwise/codeassignment/bin/Debug/netcoreapp2.0/codeassignment.pdb
+/home/indynt/Temp/shiftwise/codeassignment/obj/Debug/netcoreapp2.0/codeassignment.csprojAssemblyReference.cache
+/home/indynt/Temp/shiftwise/codeassignment/obj/Debug/netcoreapp2.0/codeassignment.csproj.CoreCompileInputs.cache
+/home/indynt/Temp/shiftwise/codeassignment/obj/Debug/netcoreapp2.0/codeassignment.AssemblyInfoInputs.cache
+/home/indynt/Temp/shiftwise/codeassignment/obj/Debug/netcoreapp2.0/codeassignment.AssemblyInfo.cs
+/home/indynt/Temp/shiftwise/codeassignment/obj/Debug/netcoreapp2.0/codeassignment.dll
+/home/indynt/Temp/shiftwise/codeassignment/obj/Debug/netcoreapp2.0/codeassignment.pdb

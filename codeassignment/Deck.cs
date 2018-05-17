@@ -1,6 +1,6 @@
 using System;
 
-public partial class Deck{
+public class Deck{
 
     Card[] deck = new Card[52];
 

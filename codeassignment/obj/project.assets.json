@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/indynt/Development/codeassignment/codeassignment.csproj",
+      "projectUniqueName": "/home/indynt/Temp/shiftwise/codeassignment/codeassignment.csproj",
       "projectName": "codeassignment",
-      "projectPath": "/home/indynt/Development/codeassignment/codeassignment.csproj",
+      "projectPath": "/home/indynt/Temp/shiftwise/codeassignment/codeassignment.csproj",
       "packagesPath": "/home/indynt/.nuget/packages/",
-      "outputPath": "/home/indynt/Development/codeassignment/obj/",
+      "outputPath": "/home/indynt/Temp/shiftwise/codeassignment/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

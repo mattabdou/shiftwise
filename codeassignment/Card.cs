@@ -1,4 +1,4 @@
-public partial class Card{
+public class Card{
 
     public int value;
     public string suit;
